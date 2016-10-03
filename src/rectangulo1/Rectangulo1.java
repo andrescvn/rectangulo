@@ -17,7 +17,7 @@ public class Rectangulo1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       //area del rectangulo 
+       //area del rectangulo pidiendo datos
        float base; 
        
        float altura;
